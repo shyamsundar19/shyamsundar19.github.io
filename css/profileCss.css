@@ -1,0 +1,95 @@
+﻿
+        #intro {
+           
+            font-size:15px;
+			
+        } 
+        .jumbotron {
+        background: #358CCE;
+        color: #FFF;
+        border-radius: 0px;
+        }
+        .jumbotron-sm {
+		padding-top: 24px;
+        padding-bottom: 24px;
+		}
+        .jumbotron small {
+            color: #FFF;
+            }
+        .h1 small {
+        font-size: 24px;
+        }
+       
+
+		.fa {
+		  padding: 20px;
+		  font-size: 30px;
+		  width: 50px;
+		  text-align: center;
+		  text-decoration: none;
+		  margin: 5px 2px;
+		}
+
+		.fa:hover {
+			opacity: 0.7;
+		}
+
+		.fa-facebook {
+		  background: #3B5998;
+		  color:white;
+  
+		}
+
+		.fa-twitter {
+		  background: #55ACEE;
+		   color:white;
+  
+		}
+
+		.fa-google {
+		  background: #dd4b39;
+		   color:white;
+ 
+		}
+		.punch-line{
+		color:#2fa348;
+		font-family:"Comic Sans";
+		font-size:50px;
+		}
+		#intro{
+		margin-top:50px;
+		background-color:white;
+		color:black;
+		padding-top:80px;
+		padding-bottom:30px;
+		}
+		#image{
+		padding-left:50px;
+		padding-top:70px;
+		margin:10px;
+		width:340px;
+		text-align:center;
+		}
+		#skills{
+		padding-top: 60px;
+		margin-top:-40px;
+		}
+		#projects{
+		padding-top: 40px;
+		margin-top: -30px;
+		margin-bottom:100px;
+		}
+		#Contact{
+		padding-top: 40px;
+		margin-top:-10px;
+		margin-bottom:40px;
+		}
+		#education,#work,#interest{
+		margin:50px;
+		font-size:20px;
+		}
+		.panel-heading{
+		font-size:35px;}
+		.panel-body{
+		font-size:20px;
+		}
