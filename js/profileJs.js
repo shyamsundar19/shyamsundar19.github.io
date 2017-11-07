@@ -1,7 +1,5 @@
-
-   // Js Scrolling Function
-
-        $(document).ready(function () {     
+//Scroll navigation
+   $(document).ready(function () {     
             $('a[href^="#"]').on('click', function (e) {
                 e.preventDefault();
 
