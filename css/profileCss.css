@@ -85,7 +85,8 @@
 		margin-bottom:40px;
 		}
 		#education,#work,#interest{
-		margin:50px;
+		margin-top:50px;
+		margin-bottom:50px;
 		font-size:20px;
 		}
 		.panel-heading{
