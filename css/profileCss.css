@@ -4,21 +4,12 @@
             font-size:15px;
 			
         } 
-        .jumbotron {
+        #Contact {
         background: #358CCE;
         color: #FFF;
         border-radius: 0px;
         }
-        .jumbotron-sm {
-		padding-top: 24px;
-        padding-bottom: 24px;
-		}
-        .jumbotron small {
-            color: #FFF;
-            }
-        .h1 small {
-        font-size: 24px;
-        }
+       
        
 
 		.fa {
@@ -54,7 +45,7 @@
 		.punch-line{
 		color:#2fa348;
 		font-family:"Comic Sans";
-		font-size:50px;
+		font-size:35px;
 		}
 		#intro{
 		margin-top:50px;
@@ -64,23 +55,27 @@
 		padding-bottom:30px;
 		}
 		#image{
-		padding-left:50px;
-		padding-top:70px;
+          float:left;
+          padding-top:10px;
 		margin:10px;
 		width:340px;
 		text-align:center;
 		}
-		#skills{
-		padding-top: 60px;
-		margin-top:-40px;
+		#about-me{
+		padding-top: 20px;
+		margin-top:-30px;
 		}
+#skills {
+    padding-top: 20px;
+    margin-top: -30px;
+}
 		#projects{
 		padding-top: 40px;
 		margin-top: -30px;
 		margin-bottom:100px;
 		}
-		#Contact{
-		padding-top: 40px;
+		#contact{
+		
 		margin-top:-10px;
 		margin-bottom:40px;
 		}
@@ -93,3 +88,7 @@
 		.panel-body{
 		font-size:20px;
 		}
+        .link{
+            font-size:12px;
+
+        }
